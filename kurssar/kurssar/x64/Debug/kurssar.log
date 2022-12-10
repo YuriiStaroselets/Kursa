@@ -1,0 +1,10 @@
+﻿  kurssar.cpp
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(125,31): warning C4099: 'Musician_s': type name first seen using 'class' now seen using 'struct'
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(103): message : see declaration of 'Musician_s'
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(156,29): warning C4099: 'Musician_s': type name first seen using 'class' now seen using 'struct'
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(103): message : see declaration of 'Musician_s'
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(188,35): warning C4099: 'Musician_s': type name first seen using 'class' now seen using 'struct'
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(103): message : see declaration of 'Musician_s'
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(210,29): warning C4099: 'Musician_s': type name first seen using 'class' now seen using 'struct'
+C:\Users\Yurii Staroselets\Desktop\kurssar\kurssar\kurssar.cpp(103): message : see declaration of 'Musician_s'
+  kurssar.vcxproj -> C:\Users\Yurii Staroselets\Desktop\kurssar\x64\Debug\kurssar.exe
